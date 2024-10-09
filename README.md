@@ -1,1 +1,2 @@
 # credit-card-fraud
+This project aims to build a reliable and accurate model for detecting fraudulent credit card transactions. The dataset used in this project contains anonymized transaction details of European cardholders over a period of two days, with 492 frauds out of 284,807 transactions. Due to the imbalance in the dataset, the project involves advanced data preprocessing, feature engineering, and model evaluation to ensure optimal performance.
